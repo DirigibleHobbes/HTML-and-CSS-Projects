@@ -103,5 +103,5 @@ PHOTO OVERLAY TRANSITIONS
 }
 
 .photo:hover {
-    transition: scale(1.1);
+    transform: scale(1.1);
 }
